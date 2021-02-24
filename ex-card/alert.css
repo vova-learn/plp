@@ -1,0 +1,12 @@
+.sweet-alert:not([data-timer=null]) .icon.custom {
+    width: 8em !important;
+    height: 8em !important;
+    border-radius: 100%;
+    background-size: cover !important; }
+    .sweet-alert:not([data-timer=null]) h2 {
+        font-size: 25px !important;
+        margin: 15px 0 !important; }
+    .sweet-alert:not([data-timer=null]) p {
+    margin-bottom: 15px !important; }
+    .sweet-alert:not([data-timer=null])  button.confirm {
+    display: none! important}
