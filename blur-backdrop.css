@@ -1,0 +1,9 @@
+.modal-open .node {
+    filter: blur(3px);
+}
+.modal-open .modal .node {
+    filter: blur(0px) !important;
+}
+.modal-open .modal-backdrop {
+    background-color: #000;
+}
