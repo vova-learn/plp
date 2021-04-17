@@ -1,3 +1,4 @@
-#### Решения для пользователей Платформа LP [![](https://u20.plpstatic.ru/s/23pp38051/77adcf577eeaa7fab8cd33eb0622062a/ce440e8b6e218d4406e210cdc453dc0f.png)](https://u20.plpstatic.ru/s/23pp38051/77adcf577eeaa7fab8cd33eb0622062a/ce440e8b6e218d4406e210cdc453dc0f.png)
------
+<h1 style="font-size: 18px; display: inline; margin-right: 5px;">Решения для пользователей Платформа LP</h1><img src="https://u20.plpstatic.ru/s/23pp38051/77adcf577eeaa7fab8cd33eb0622062a/ce440e8b6e218d4406e210cdc453dc0f.png" width="25" />
+
 В данном репозитории представлены некоторые решения для конструктора сайтов Платформа LP. Решения позволяют расширить функционал редактора или изменить стиль уже готовой страницы.
+
