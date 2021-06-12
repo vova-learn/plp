@@ -1,6 +1,6 @@
-#### Выбор цвета товара в корзине
+#### Fix. Выбор цвета товара в корзине :white_check_mark:
 -----
-[Новый код](https://raw.githubusercontent.com/vovapipko/plp/master/choosing-item-color/index.js "Ссылка на index.js") для решения в рамках статьи [Как сделать выбор цвета товара в корзине?](https://support.platformalp.ru/ru/articles/3592847-как-сделать-выбор-цвета-товара-в-корзине "Как сделать выбор цвета товара в корзине?")
+###### [Новый код](https://raw.githubusercontent.com/vovapipko/plp/master/choosing-item-color/index.js "Ссылка на index.js") для решения в рамках статьи [Как сделать выбор цвета товара в корзине?](https://support.platformalp.ru/ru/articles/3592847-как-сделать-выбор-цвета-товара-в-корзине "Как сделать выбор цвета товара в корзине?")
 
 ##### Исправлено:
 * новое фото товара не корректно встраивается в разные варианты виджета `Картинка`;
